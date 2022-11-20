@@ -1,0 +1,19 @@
+.table {
+    width: 100%;
+    height: 50vh;
+
+}
+.table td {
+    border: 1px solid black;
+    text-align: center;
+
+}
+.colorhead {
+    background-color: gray;
+}
+.color1 {
+    background-color: cyan;
+}
+.color2{
+    background-color: dodgerblue;
+}

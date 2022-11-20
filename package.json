@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "bootstrap": "^5.2.2"
+  },
+  "name": "php-table",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YasinDehfuli/leaning-php.git"
+  },
+  "bugs": {
+    "url": "https://github.com/YasinDehfuli/leaning-php/issues"
+  },
+  "homepage": "https://github.com/YasinDehfuli/leaning-php#readme",
+  "description": ""
+}
